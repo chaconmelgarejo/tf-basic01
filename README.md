@@ -1,2 +1,2 @@
 # First Step in TF
-terraform basics
+terraform basics in GCP
