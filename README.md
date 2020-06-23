@@ -1,2 +1,2 @@
-# tf-basic01
+# First Step in TF
 terraform basics
