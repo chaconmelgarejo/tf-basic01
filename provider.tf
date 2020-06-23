@@ -1,6 +1,6 @@
 // Configure the Google Cloud provider
 provider "google" {
   credentials = "${file("account.json")}"
-  project     = "kubernetes-202313"
+  project     = "my-project"
   region      = "us-central1"
 }
