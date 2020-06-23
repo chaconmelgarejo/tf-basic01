@@ -1,5 +1,5 @@
 # Create a new instance
-resource "google_compute_instance" "ubuntu-xenial" {
+resource "google_compute_instance" "my-vm" {
    name = "ubuntu-test"
    machine_type = "f1-micro"
    zone = "us-central1-a"
